@@ -1,0 +1,10 @@
+cloudscraper
+socks
+pysocks
+colorama
+undetected_chromedriver
+httpx
+speedtest-cli
+cfscrape
+datetime
+scapy
